@@ -1,10 +1,12 @@
 # Task-1-basics
 ## Objective 
 Complete the following:
+
+
 TASK-1) Linux installation-https://www.youtube.com/watch?v=navuBR4aJSs&t=222s  and complete https://linuxjourney.com/ till grasshopper
 
 
-TASK-2) level-00- to level-14-15 of https://overthewire.org/wargames/bandit/  (need screenshots of your terminal)
+TASK-2) level-00- to level-14-15 of https://overthewire.org/wargames/bandit/  (need screenshots of your terminal)   Write a short writeup for each level explaining your thought process and approach. The how you thought about it matters more than the final answer - so don't skip that part.
 
 
 
