@@ -26,3 +26,13 @@ submissions/
 └── your_github_username/
     ├── answers.md
     └── screenshots/
+
+
+
+Submission Overview
+Inside the submission/ directory:
+
+Fill user.sh
+Complete the each task
+Test your solution thoroughly
+Push your final submission
